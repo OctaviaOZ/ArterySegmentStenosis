@@ -26,16 +26,7 @@ There have to be written a module that will be extract images from dicom files a
 
 BreifExploring.ipynb - jupyter notebook file. 
 
-<table align="center">
-<tr>
-         <td align="center">
-            <a href=" https://colab.research.google.com/github.com/OctaviaOZ/Artery_Segment_Stenosis/blob/master/BreifExploring.ipynb">
-                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
-            </a>
-        </td>
-</tr>
-
-It contains exploring the internet to deep dive into the last publications, 
+The jupyter notebook file contains exploring the internet to deep dive into the last publications, 
 state-of-art researches that might be helpful to build a system that has to explore coronary arteries in the human body. 
 Each artery can be conditionally divided into 3 segments of equal length - proximal, middle, and distal. 
 The system has to measure a stenosis level for each segment. 
@@ -47,3 +38,11 @@ The notebook file includes exploring analyze CT images using python libraries.
   </a>
 </p>
 
+<table align="center">
+<tr>
+         <td align="center">
+            <a href=" https://colab.research.google.com/github.com/OctaviaOZ/Artery_Segment_Stenosis/blob/master/BreifExploring.ipynb">
+                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
+            </a>
+        </td>
+</tr>
