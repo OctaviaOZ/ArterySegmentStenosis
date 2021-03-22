@@ -2,7 +2,7 @@
 
 **Welcome to initial project to build CT cardial processing system!**
 
-#CSTORE
+*CSTORE*
 I build two services to understand the structure - Service Class Provider(SCP)
 and Service Class User(CSU). 
 In the project, there are in the folder "cstore". 
@@ -25,6 +25,7 @@ The services work in the inial stage.
 There have to be written a module that will be extract images from dicom files and write its to the folder "data".
 
 BreifExploring.ipynb - jupyter notebook file. 
+
 <table align="center">
 <tr>
          <td align="center">
@@ -33,6 +34,7 @@ BreifExploring.ipynb - jupyter notebook file.
             </a>
         </td>
 </tr>
+
 It contains exploring the internet to deep dive into the last publications, 
 state-of-art researches that might be helpful to build a system that has to explore coronary arteries in the human body. 
 Each artery can be conditionally divided into 3 segments of equal length - proximal, middle, and distal. 
