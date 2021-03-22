@@ -41,7 +41,7 @@ The notebook file includes exploring analyze CT images using python libraries.
 <table align="center">
 <tr>
          <td align="center">
-            <a href=" https://colab.research.google.com/github.com/OctaviaOZ/Artery_Segment_Stenosis/blob/master/BreifExploring.ipynb">
+            <a href=" https://colab.research.google.com/github.com/OctaviaOZ/ArterySegmentStenosis/blob/master/BreifExploring.ipynb">
                 <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
             </a>
         </td>
