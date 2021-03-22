@@ -24,7 +24,8 @@ The services work in the inial stage.
 
 There have to be written a module that will be extract images from dicom files and write its to the folder "data".
 
-BreifExploring.ipynb - jupyter notebook file. 
+BreifExploring.ipynb 
+[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github.com/OctaviaOZ/ArterySegmentStenosis/blob/master/BreifExploring.ipynb)
 
 The jupyter notebook file contains exploring the internet to deep dive into the last publications, 
 state-of-art researches that might be helpful to build a system that has to explore coronary arteries in the human body. 
@@ -37,12 +38,3 @@ The notebook file includes exploring analyze CT images using python libraries.
     <img style="width: 600px; overflow: hidden;" src="https://faculty.washington.edu/jeff8rob/wordpress/wp-content/uploads/2017/03/Coronary-artery-segments-1024x577.jpg" alt="Progressive artifacts">
   </a>
 </p>
-
-<table align="center">
-<tr>
-         <td align="center">
-            <a href="https://github.com//OctaviaOZ/ArterySegmentSenosis/blob/master/BreifExploring.ipynb">
-                <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Google Colab">
-            </a>
-        </td>
-</tr>
