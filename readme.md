@@ -1,6 +1,6 @@
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
-**Welcome to initial project to build CT cardial processing system!**
+**Welcome to initial project to build CT cardiac processing system!**
 
 For the purposes of recognizing some diseases using ML to collect appropriate data is of vital importance. Developed solutions to build DICOM services on the market are various. Automated mechanisms are required in order to collect a large number of images. I tried to build a service for research purposes to collect data using an API. There are Service Class Provider (SCP) and Service Class User (SCU). Such collecting is limited to have obtaining authorities and the download process requires a lot of time due bandwidth limits. I found one resource out which allows downloading Dicom samples. Access to these images requires a valid Premium Membership (69,99 of dollars monthly or 99,00 for one year). You have to be sure to buy appropriate samples. I failed to find any datasets of CT cardiac in free access.
 
@@ -37,7 +37,7 @@ The services work in the inial stage.
 
 There have to be written a module that will be extract images from dicom files and write its to the folder "data".
 
-BreifExploring.ipynb 
+ColabNote_BreifExploring.ipynb 
 [![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RJgGuZuuhro2SsXGHnjpkqaf3AFs8Q7_?usp=sharing)
 
 The jupyter notebook file contains exploring the internet to deep dive into the last publications, 
