@@ -37,8 +37,7 @@ The services work in the inial stage.
 
 There have to be written a module that will be extract images from dicom files and write its to the folder "data".
 
-ColabNote_BreifExploring.ipynb 
-[![Google Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1RJgGuZuuhro2SsXGHnjpkqaf3AFs8Q7_?usp=sharing)
+jupyter_BriefExploring.ipynb
 
 The jupyter notebook file contains exploring the internet to deep dive into the last publications, 
 state-of-art researches that might be helpful to build a system that has to explore coronary arteries in the human body. 
