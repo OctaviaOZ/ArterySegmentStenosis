@@ -39,8 +39,8 @@ There have to be written a module that will be extract images from dicom files a
 
 jupyter_BriefExploring.ipynb
 
-The jupyter notebook file contains exploring the internet to deep dive into the last publications, 
-state-of-art researches that might be helpful to build a system that has to explore coronary arteries in the human body. 
+The jupyter notebook file contains preprocessing of images to get segments of arteries
+that might be helpful to build a system that has to explore coronary arteries in the human body. 
 Each artery can be conditionally divided into 3 segments of equal length - proximal, middle, and distal. 
 The system has to measure a stenosis level for each segment. 
 The notebook file includes exploring analyze CT images using python libraries.
