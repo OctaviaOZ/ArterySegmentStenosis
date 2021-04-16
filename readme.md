@@ -37,7 +37,7 @@ The services work in the inial stage.
 
 There have to be written a module that will be extract images from dicom files and write its to the folder "data".
 
-jupyter_BriefExploring.ipynb
+[jupyter_BriefExploring.ipynb](/jupyter_BriefExploring.ipynb).
 
 The jupyter notebook file contains preprocessing of images to get segments of arteries
 that might be helpful to build a system that has to explore coronary arteries in the human body. 
